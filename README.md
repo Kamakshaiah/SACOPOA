@@ -1,6 +1,6 @@
 # SACOPOA (COPO Attainment Calculator)
 
-Application for calculating Course Outcome Program Outcome (COPO) attainment based on student marks.
+Software Application for Course Outcome Program Outcome (COPO) attainment calculations based on student marks.
 
 ## Features
 
